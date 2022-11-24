@@ -2,6 +2,6 @@ import React from 'react'
 
 export const Testimonials = () => {
   return (
-    <div></div>
+    <div>Testimonials</div>
   )
 }
